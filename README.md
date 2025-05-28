@@ -2,8 +2,6 @@
 
 AB-420 Obmetko 
 
-First exercise - variant 2
+First exercise - variant 6
 
-Second exercise - variant 7
-
-Third exercise - variant 1
+Second exercise - variant 2
