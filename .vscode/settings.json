@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iomanip": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "iosfwd": "cpp"
+    }
+}
